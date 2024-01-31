@@ -9,7 +9,7 @@
                 </div>
 
                 <div class="footer-text">
-                    <h4>At ReservQ, we invite you to embark on a journey of taste and delight.Our tables are more
+                    <h4>At CASA CRUZ, we invite you to embark on a journey of taste and delight.Our tables are more
                         than just places.</h4>
                 </div>
 
@@ -132,7 +132,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="copyright-text">
-                    <h4>©2023 <span>ReservQ</span>. All rights reserved</h4>
+                    <h4>©2023 <span>CASA CRUZ</span>. All rights reserved</h4>
                 </div>
             </div>
         </div>

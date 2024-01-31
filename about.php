@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - ReservQ Restaurant</title>
+    <title>About Us - CASA CRUZ Restaurant</title>
 
    <?php include ('include/css.php');?>
 </head>
@@ -81,7 +81,7 @@
 
                     <div class="col-lg-6 about-pl-45px" data-aos="fade-left">
                         <div class="about-us-head">
-                            <h2>Our Story of food Culinary Excellence at ReservQ</h2>
+                            <h2>Our Story of food Culinary Excellence at CASA CRUZ</h2>
 
                             <h5>There are many variations of passages of Lorem Ipsum available, but the to a
                                 majority have suffered alteration in some form, by injected humour, or find
@@ -926,7 +926,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>
@@ -958,7 +958,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>
@@ -990,7 +990,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>

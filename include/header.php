@@ -49,7 +49,7 @@
 
 
                         <div class="text">
-                            <a href="mailto:Quomodosoft@gmail.com">Quomodosoft@gmail.com</a>
+                            <a href="mailto:reservations@casacruznyc.com">reservations@casacruznyc.com</a>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
 
                         <div class="nav-main">
                             <div class="logo">
-                                <a href="index-2.html"> <img src="assets/images/logo/footer-logo.svg"
+                                <a href="index.php"> <img src="assets/images/logo/footer-logo.svg"
                                                              alt="logo"></a>
                             </div>
 
@@ -596,17 +596,13 @@
                             </div>
                         </div>
                         <div class="nav-login-btn-main">
-                            <a href="login.html" class="main-btn-four">Log In</a>
-                            <a href="sign-up.html" class="main-btn">Sign Up</a>
+                            <a href="#" class="main-btn-four">Log In</a>
+                            <a href="#" class="main-btn">Sign Up</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-
-
-
     </nav>
 </header>
 
@@ -616,7 +612,7 @@
         <div class="mobile-header__container">
             <div class="p-left">
                 <div class="logo">
-                    <a href="index-2.html">
+                    <a href="index.php">
                         <img src="assets/images/logo/logo-header.svg" alt="logo">
                     </a>
                 </div>

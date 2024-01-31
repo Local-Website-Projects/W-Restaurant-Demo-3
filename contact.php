@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - ReservQ Restaurant</title>
+    <title>Contact Us - CASA CRUZ Restaurant</title>
 
     <?php include ('include/css.php');?>
 </head>
@@ -111,12 +111,9 @@
 
                                 <div class="text text-two ">
                                     <h5>Send a Email</h5>
-                                    <a href="mailto:Quomodosoft@gmailabdur.rohman2003@gmail.com">
-                                        <p>Quomodosoft@gmail <br>
-                                            abdur.rohman2003@gmail.com </p>
+                                    <a href="mailto:reservations@casacruznyc.com">
+                                        <p style="font-size: 18px;">reservations@casacruznyc.com </p>
                                     </a>
-
-
                                 </div>
                             </div>
                         </div>
@@ -185,7 +182,7 @@
                     <div class="col-lg-12">
                         <div>
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d330643.1132524465!2d89.83973691721877!3d23.707236766895445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1695798721116!5m2!1sen!2sbd"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.892401342998!2d-73.9725678235592!3d40.764391234405984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258efc1c56a2f%3A0xa72368c250d20630!2s36%20E%2061st%20St%2C%20New%20York%2C%20NY%2010065%2C%20USA!5e0!3m2!1sen!2sbd!4v1706690378422!5m2!1sen!2sbd"
                                 width="1320" height="560" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>

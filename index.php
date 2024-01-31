@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - ReservQ Restaurant</title>
+    <title>Home - CASA CRUZ Restaurant</title>
 
     <?php include('include/css.php'); ?>
 </head>
@@ -1855,7 +1855,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>
@@ -1887,7 +1887,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>
@@ -1919,7 +1919,7 @@
                             </div>
                             <div class="customer-item-text">
                                 <p>"An absolute foodie's paradise! The flavors at
-                                    ReservQ are a symphony of delight. Every bite tells a story of passion and skill. A
+                                    CASA CRUZ are a symphony of delight. Every bite tells a story of passion and skill. A
                                     must-visit for anyone seeking beyond compare."</p>
                             </div>
                         </div>
